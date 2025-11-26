@@ -1,0 +1,10 @@
+{
+  "name": "my-frontend-lab",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo 'Building project...' && mkdir -p dist && echo 'Hello World' > dist/index.html"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
